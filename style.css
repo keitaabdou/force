@@ -1,0 +1,14 @@
+body{
+	margin: 0px;
+	padding: 0px;
+
+}
+main .site-title{
+    background: url('force.jpg') no-repeat fixed;
+    background-size: cover;
+    height: 140vh;
+    display: flex;
+    justify-content: center;
+
+}
+
